@@ -18,7 +18,7 @@
 
 # Installation+Run💨
 ```shell
-git clone https://github.com/sataroscript/MonadTestnet-Bot
+git clone https://github.com/NetherlandsDev/MonadTestnet-Bot
 cd MonadTestnet-Bot
 run.bat
 ```
@@ -35,7 +35,8 @@ http://username:password:ip:port
 socks5://username:password:ip:port
 ```
 # Showcase🖼
-![monadpreview](https://github.com/user-attachments/assets/a3e29e2a-b14c-42ba-bd7f-1121e756ee26)
+![image](https://github.com/user-attachments/assets/48e9280b-6806-4eb7-a892-ce7257466c55)
+
 
 
 
